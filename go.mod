@@ -1,4 +1,4 @@
-module github.com/jessepeterson/cfgprofiles
+module github.com/cruiz1391/cfgprofiles
 
 go 1.13
 
